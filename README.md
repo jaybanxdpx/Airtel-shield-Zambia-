@@ -1,25 +1,14 @@
-🛡️ Airtel Shield Zambia - Anti-Fraud AI
+Airtel Shield Zambia
 
-> Protecting Zambians from Airtel Money & MTN MoMo fraud in real-time via WhatsApp.
+An AI bot that protects Zambians from Airtel Money & MTN Mobile Money fraud.
 
-The Problem
-Over 60% of Zambians have received fake Airtel Money SMS like "You received K5000" or phishing links stealing MoMo PINs. Many lose money daily.
+Problem
+Scammers send fake SMS like "You received K5000, click link to claim" and steal money.
 
-The Solution
-Airtel Shield is a WhatsApp AI bot that:
-- ✅ Scans SMS screenshots & links for fraud
-- ✅ Detects fake Airtel/MTN messages instantly
-- ✅ Warns user in Bemba/Nyanja/English
-- ✅ Built with Python, Flask & Meta Llama 3 AI
+Solution
+Our AI detects scam patterns instantly and warns users on WhatsApp in Bemba, Nyanja & English.
 
-How It Works
-User forwards suspicious SMS/link to WhatsApp -> Llama AI analyzes -> Returns: SAFE or SCAM + explanation.
+Built with Meta Llama 3 for Zambian context.
 
-Tech Stack
-Python, Flask, WhatsApp API, Meta Llama 3, Regex fraud patterns
-
-Status
-Hackathon MVP in development - Lusaka, Zambia 🇿🇲
-
-Author
-@jaybanxdpx - Zambian developer fighting mobile money fraud
+Demo
+Python fraud detector in app.py
